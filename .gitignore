@@ -1,0 +1,7 @@
+.DS_Store
+# webstorm
+.idea
+
+# downloaded libs
+node_modules
+client/vendor
